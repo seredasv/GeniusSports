@@ -1,0 +1,9 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_back"
+        android:showAsAction="always"
+        app:showAsAction="always"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/action_back" />
+</menu>
